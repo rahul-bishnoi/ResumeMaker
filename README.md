@@ -8,3 +8,9 @@ ResuPrint is a user-friendly resume maker platform designed using HTML, CSS, and
 
 ![App Screenshot](https://i.postimg.cc/kgVDsnHw/Fire-Shot-Capture-001-Resume-Builder-127-0-0-1.png)
 
+
+## 🔗 Links
+
+[projectLink](https://github.com/rahul-bishnoi/ResumeMaker)
+
+
